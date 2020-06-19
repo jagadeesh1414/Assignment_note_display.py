@@ -1,4 +1,4 @@
-[1:21 PM, 6/19/2020] Anil B6: def add(x, y):
+ def add(x, y):
     return x + y
 def subtract(x, y):
     return x - y
